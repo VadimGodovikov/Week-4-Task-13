@@ -1,0 +1,10 @@
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\bin\Debug\prog13form.exe.config
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\bin\Debug\prog13form.exe
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\bin\Debug\prog13form.pdb
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.Form1.resources
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.Properties.Resources.resources
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.exe
+C:\Учебная практика\Неделя 4 Задание 13\prog13form\prog13form\obj\Debug\prog13form.pdb
